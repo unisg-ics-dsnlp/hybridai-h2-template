@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Generated logic bases: fx/, fx-demo/, fx-benchmarks/, any fx-* scratch build.
+fx/
+fx-*/
+.sbb-build-*/
+.DS_Store
+.*
